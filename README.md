@@ -9,7 +9,7 @@
 1. **Create a virtual environment**
    ```bash
    python -m virtualenv venv
-   cd\venv\scripts\activate
+   venv\scripts\activate
 2. **Install Django**
    ```bash
    pip install django
