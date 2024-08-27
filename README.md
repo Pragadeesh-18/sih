@@ -3,7 +3,6 @@
 ## Installation
 
 ### Prerequisites
-Before installing the frontend application, ensure that the following prerequisites are met:
 
 - **Node.js**: Version 10.7.0 is recommended.
 - **Ember CLI**: Version 3.1.4 is required.
