@@ -30,4 +30,5 @@ Navigate to the frontend directory:
 Start the Ember server with the following command:
 ```bash
 ember s --pr http://localhost:8000
+
 The application will be accessible at http://localhost:4200.
