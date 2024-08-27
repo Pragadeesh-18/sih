@@ -10,13 +10,13 @@
    ```bash
    python -m virtualenv venv
    cd\venv\scripts\activate
-2 **Install Django**
+2. **Install Django**
    ```bash
    pip install django
 
-3 **Run Django Server**
-   ```python manage.py runserver 0.0.0.0:8000
-```
+3. **Run Django Server**
+   ```bash
+python manage.py runserver 0.0.0.0:8000
 ### Frontend
 ### Prerequisites
 
