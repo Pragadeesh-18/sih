@@ -2,6 +2,21 @@
 
 ## Installation
 
+### Backend
+### Prerequisites
+- **Django**
+### Steps to Install
+1. **Create a virtual environment**
+   ```bash
+   python -m virtualenv venv
+   cd\venv\scripts\activate
+2 **Install Django**
+   ```bash
+   pip install django
+3 **Run Django Server**
+   ```bash
+   python manage.py runserver 0.0.0.0:8000
+### Frontend
 ### Prerequisites
 
 - **Node.js**: Version 10.7.0 is recommended.
